@@ -40,11 +40,23 @@ To write a Python function `def leftRotate(self, z):` to perform the left rotati
 ## PYTHON PROGRAM
 
 ```
-ENTER YOUR CODE
+from TreeAVL.AVL import AVL
+
+def getDictTree(self):
+ return self.dict_tree
+
+def Construct_AVL(L):
+    tree=AVL(L)
+    print(getDictTree(tree))
+    
+L=[10, 5, 15, 7, 18, 9]
 ```
 
 ## OUTPUT
 ```
+{10: [5, 15], 5: [7], 15: [18], 7: [9], 18: [], 9: []}
 ```
 
 ## RESULT
+
+<img width="1127" height="184" alt="image" src="https://github.com/user-attachments/assets/25ff5b25-b58c-4fb7-96ca-6b31fedfaec7" />
