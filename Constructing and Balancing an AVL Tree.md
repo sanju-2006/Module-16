@@ -5,6 +5,8 @@ To write a Python program to construct an **AVL tree**, balance it, and print th
 
 ---
 
+
+
 ## ALGORITHM:
 
 **Step 1**: Start the program.
