@@ -40,11 +40,11 @@ L=[10, 5, 15, 7, 18, 9]
 ```
 
 ## OUTPUT
-```
-{10: [5, 15], 5: [7], 15: [18], 7: [9], 18: [], 9: []}
-```
+
+<img width="1136" height="196" alt="image" src="https://github.com/user-attachments/assets/246cf4cd-de97-4afc-87ac-36b4dc922a6a" />
+
 
 ## RESULT
 
-<img width="1136" height="196" alt="image" src="https://github.com/user-attachments/assets/246cf4cd-de97-4afc-87ac-36b4dc922a6a" />
+Python program to construct an **AVL tree**, balance it, and print the nodes **before and after balancing** using the appropriate packages and built-in function is successfully verified.
 
