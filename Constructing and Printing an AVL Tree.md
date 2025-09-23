@@ -40,14 +40,10 @@ def Construct_AVL(L,N):
 ```
 
 ## OUTPUT
-```
-AVL Tree Before Balancing
- {10: [5, 15], 5: [4, 7], 15: [12, 18], 7: [9], 18: [], 9: [], 12: [], 4: [3], 3: []}
-AVL Tree After Balancing
- {7: [4, 15], 4: [3, 5], 15: [10, 18], 10: [9, 12], 18: [], 9: [], 12: [], 3: [], 5: []}
-```
-
-## RESULT
 
 <img width="1140" height="384" alt="image" src="https://github.com/user-attachments/assets/6983cfcb-fb3b-4374-80ef-c7796d6b97a6" />
+
+
+## RESULT
+Python program to construct an **AVL tree** and print the nodes of it using the appropriate packages and built-in function is verified successfully.
 
