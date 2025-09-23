@@ -53,10 +53,7 @@ L=[10, 5, 15, 7, 18, 9]
 ```
 
 ## OUTPUT
-```
-{10: [5, 15], 5: [7], 15: [18], 7: [9], 18: [], 9: []}
-```
+<img width="1127" height="184" alt="image" src="https://github.com/user-attachments/assets/25ff5b25-b58c-4fb7-96ca-6b31fedfaec7" />
 
 ## RESULT
-
-<img width="1127" height="184" alt="image" src="https://github.com/user-attachments/assets/25ff5b25-b58c-4fb7-96ca-6b31fedfaec7" />
+Python function `def leftRotate(self, z):` to perform the left rotation operation in an AVL Tree and insert the element '7' into it is successfully verified.
