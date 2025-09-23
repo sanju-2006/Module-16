@@ -123,20 +123,10 @@ if __name__ == '__main__':
 ```
 
 ## OUTPUT
-```
-B Tree :
-Level  0   2:(2, 4) (5, 10)
-Level  1   2:(0, 0) (1, 2)
-Level  1   2:(3, 6) (4, 8)
-Level  1   4:(6, 12) (7, 14) (8, 16) (9, 18)
 
-B Tree after insertion
-Level  0   2:(2, 4) (5, 10)
-Level  1   2:(0, 0) (1, 2)
-Level  1   2:(3, 6) (4, 8)
-Level  1   5:(6, 12) (7, 14) (8, 16) (9, 18) (11,)
-```
+<img width="1058" height="392" alt="image" src="https://github.com/user-attachments/assets/e8385b82-bb53-4077-bf06-bdb242684710" />
+
 
 ## RESULT
 
-<img width="1058" height="392" alt="image" src="https://github.com/user-attachments/assets/e8385b82-bb53-4077-bf06-bdb242684710" />
+Python function `def insert(self, k):` to insert the nodes in a **B-Tree** is successfully verified.
