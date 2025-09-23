@@ -141,20 +141,7 @@ class BPlusTree(object):
             
             if parent and not parent .is_full():
                 self._merge(parent,child,index)
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
+ 
     def retrieve(self, key):
        
         child = self.root
@@ -207,22 +194,13 @@ if __name__ == '__main__':
 ```
 
 ## OUTPUT
-```
-0 ['a', 'b', 'c', 'd']
 
-Splitting node...
-0 ['c']
-1 ['a', 'b']
-1 ['c', 'd']
+<img width="601" height="446" alt="image" src="https://github.com/user-attachments/assets/9cdb3036-49f9-4244-b035-624cf84381e6" />
 
-
-B+ tree...
-0 ['c', 'e']
-1 ['a', 'b']
-1 ['c', 'd']
-1 ['e', 'y']
-```
 
 ## RESULT
 
-<img width="601" height="446" alt="image" src="https://github.com/user-attachments/assets/9cdb3036-49f9-4244-b035-624cf84381e6" />
+Python function `def insert(self, key, value):` to insert elements into a **B+ Tree** is successfully verified.
+
+
+
